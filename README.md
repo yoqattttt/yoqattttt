@@ -30,9 +30,8 @@ QA Engineer (Manual + Automation) · Junior · без коммерческого
 `SQL` (Базовый уровень + JOIN)
  
 **Инфраструктура**
-`Git` `GitHub Actions (CI)` `DevTools` `Jenkins*` `Docker*`
+`Git` `GitHub Actions (CI)` `DevTools` `Jenkins` `Docker`
  
-`*` — поверхностные знания
  
 ---
  
